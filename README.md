@@ -10,8 +10,12 @@
 ## 📊 List of Dashboards
 | **Dashboard**                          | **Link**         |
 |----------------------------------------|------------------|
-| E-commerce Dashboard | link |
-| E-commerce Performance KPIs Overview | link |
-| Customer Signups | link |
-| Types of Charts in Tableau | link |
-| Dynamic Date Granularity using Parameters | link |
+| Performance KPIs Overview | link |
+| Dynamic Dashboard | link |
+| Retention Analysis | link |
+| Pareto Analysis | link |
+| Orders Funnel | link |
+| Common Chart Types in Tableau | link |
+| English Premier League Rankings | link |
+
+
